@@ -1,4 +1,4 @@
-const RAL_DESIGN_COLORS = [
+[
   {
     "code": "RAL 000 15 00",
     "name": "Ink black",
@@ -800,11 +800,6 @@ const RAL_DESIGN_COLORS = [
     "hex": "#A34F42"
   },
   {
-    "code": "RAL 040 40 60",
-    "name": "Copper red",
-    "hex": "#A9473C"
-  },
-  {
     "code": "RAL 040 40 67",
     "name": "China red",
     "hex": "#B1453C"
@@ -1383,226 +1378,6 @@ const RAL_DESIGN_COLORS = [
     "code": "RAL 060 85 10",
     "name": "Cornmeal beige",
     "hex": "#E9D3C4"
-  },
-  {
-    "code": "RAL 060 85 20",
-    "name": "Dough yellow",
-    "hex": "#F3CEB6"
-  },
-  {
-    "code": "RAL 060 85 30",
-    "name": "Light saffron orange",
-    "hex": "#FFCBA5"
-  },
-  {
-    "code": "RAL 060 90 05",
-    "name": "Grain white",
-    "hex": "#EEE1D9"
-  },
-  {
-    "code": "RAL 060 90 10",
-    "name": "Vanilla cream",
-    "hex": "#F5DFD0"
-  },
-  {
-    "code": "RAL 060 90 15",
-    "name": "Apricot cream",
-    "hex": "#FBDCC9"
-  },
-  {
-    "code": "RAL 060 93 05",
-    "name": "Wool white",
-    "hex": "#F8EBE3"
-  },
-  {
-    "code": "RAL 070 20 10",
-    "name": "",
-    "hex": "#4D443D"
-  },
-  {
-    "code": "RAL 070 30 10",
-    "name": "Mineral brown",
-    "hex": "#5B5046"
-  },
-  {
-    "code": "RAL 070 30 20",
-    "name": "Beech brown",
-    "hex": "#665545"
-  },
-  {
-    "code": "RAL 070 40 10",
-    "name": "Mink brown",
-    "hex": "#73665B"
-  },
-  {
-    "code": "RAL 070 40 20",
-    "name": "Huckleberry brown",
-    "hex": "#7B634F"
-  },
-  {
-    "code": "RAL 070 40 30",
-    "name": "Arable brown",
-    "hex": "#836448"
-  },
-  {
-    "code": "RAL 070 40 40",
-    "name": "Autumn gold",
-    "hex": "#89623E"
-  },
-  {
-    "code": "RAL 070 50 10",
-    "name": "Saruk grey",
-    "hex": "#897B6F"
-  },
-  {
-    "code": "RAL 070 50 20",
-    "name": "Ash gold",
-    "hex": "#947A62"
-  },
-  {
-    "code": "RAL 070 50 30",
-    "name": "Lion's mane blonde",
-    "hex": "#9A7552"
-  },
-  {
-    "code": "RAL 070 50 40",
-    "name": "Antique gold",
-    "hex": "#A27446"
-  },
-  {
-    "code": "RAL 070 50 50",
-    "name": "Stage gold",
-    "hex": "#A3723F"
-  },
-  {
-    "code": "RAL 070 50 55",
-    "name": "Theatre gold",
-    "hex": "#AB7139"
-  },
-  {
-    "code": "RAL 070 60 10",
-    "name": "Light mahogany",
-    "hex": "#A19284"
-  },
-  {
-    "code": "RAL 070 60 20",
-    "name": "Dark blond",
-    "hex": "#AB9177"
-  },
-  {
-    "code": "RAL 070 60 30",
-    "name": "Light oak brown",
-    "hex": "#B38C67"
-  },
-  {
-    "code": "RAL 070 60 40",
-    "name": "Grain brown",
-    "hex": "#BC8A59"
-  },
-  {
-    "code": "RAL 070 60 50",
-    "name": "Mud yellow",
-    "hex": "#C5894A"
-  },
-  {
-    "code": "RAL 070 60 60",
-    "name": "Mustard yellow",
-    "hex": "#CD873F"
-  },
-  {
-    "code": "RAL 070 60 70",
-    "name": "Seabuckthorn yellow brown",
-    "hex": "#CF8435"
-  },
-  {
-    "code": "RAL 070 60 75",
-    "name": "Autumn leaf orange",
-    "hex": "#D2822F"
-  },
-  {
-    "code": "RAL 070 70 10",
-    "name": "Ginger grey yellow",
-    "hex": "#B9AA9C"
-  },
-  {
-    "code": "RAL 070 70 20",
-    "name": "Light ash brown",
-    "hex": "#C5A98D"
-  },
-  {
-    "code": "RAL 070 70 30",
-    "name": "Golden beige",
-    "hex": "#D0A77F"
-  },
-  {
-    "code": "RAL 070 70 40",
-    "name": "Dechant pear yellow",
-    "hex": "#D9A46D"
-  },
-  {
-    "code": "RAL 070 70 50",
-    "name": "Honeycomb yellow",
-    "hex": "#DFA160"
-  },
-  {
-    "code": "RAL 070 70 60",
-    "name": "Gorse yellow orange",
-    "hex": "#EAA050"
-  },
-  {
-    "code": "RAL 070 70 70",
-    "name": "Naples yellow",
-    "hex": "#E89A41"
-  },
-  {
-    "code": "RAL 070 70 80",
-    "name": "Saffron gold",
-    "hex": "#F09630"
-  },
-  {
-    "code": "RAL 070 80 10",
-    "name": "Flax beige",
-    "hex": "#D5C5B5"
-  },
-  {
-    "code": "RAL 070 80 20",
-    "name": "Buttercup yellow",
-    "hex": "#E4C4A7"
-  },
-  {
-    "code": "RAL 070 80 30",
-    "name": "Golden oat coloured",
-    "hex": "#EBBF96"
-  },
-  {
-    "code": "RAL 070 80 40",
-    "name": "Apricot yellow",
-    "hex": "#F6C088"
-  },
-  {
-    "code": "RAL 070 80 50",
-    "name": "Warm apricot",
-    "hex": "#FFBD75"
-  },
-  {
-    "code": "RAL 070 80 60",
-    "name": "Golden rain yellow",
-    "hex": "#FFBA65"
-  },
-  {
-    "code": "RAL 070 85 05",
-    "name": "Almond beige",
-    "hex": "#DCD3C9"
-  },
-  {
-    "code": "RAL 070 85 10",
-    "name": "Silver thistle beige",
-    "hex": "#E4D2C3"
-  },
-  {
-    "code": "RAL 070 85 20",
-    "name": "Sandalwood beige",
-    "hex": "#F0CFAF"
   },
   {
     "code": "RAL 070 85 30",
@@ -2400,11 +2175,6 @@ const RAL_DESIGN_COLORS = [
     "hex": "#AF9638"
   },
   {
-    "code": "RAL 090 70 10",
-    "name": "Dusty yellow",
-    "hex": "#B7AE9D"
-  },
-  {
     "code": "RAL 090 70 20",
     "name": "Barbados beige",
     "hex": "#BBAD8A"
@@ -3198,11 +2968,6 @@ const RAL_DESIGN_COLORS = [
     "code": "RAL 110 80 70",
     "name": "Juice green",
     "hex": "#C0D249"
-  },
-  {
-    "code": "RAL 110 85 10",
-    "name": "Veltliner white",
-    "hex": "#D6D6C3"
   },
   {
     "code": "RAL 110 85 20",
@@ -4000,11 +3765,6 @@ const RAL_DESIGN_COLORS = [
     "hex": "#1E9150"
   },
   {
-    "code": "RAL 150 60 10",
-    "name": "Pointed cabbage green",
-    "hex": "#8D9B8F"
-  },
-  {
     "code": "RAL 150 60 20",
     "name": "Orient green",
     "hex": "#7F9E85"
@@ -4798,11 +4558,6 @@ const RAL_DESIGN_COLORS = [
     "code": "RAL 180 30 36",
     "name": "",
     "hex": "#005F52"
-  },
-  {
-    "code": "RAL 180 40 05",
-    "name": "Earth green",
-    "hex": "#626C69"
   },
   {
     "code": "RAL 180 40 10",
@@ -5600,11 +5355,6 @@ const RAL_DESIGN_COLORS = [
     "hex": "#365F64"
   },
   {
-    "code": "RAL 210 30 25",
-    "name": "Deep Atlantic blue",
-    "hex": "#2B5F66"
-  },
-  {
     "code": "RAL 210 30 30",
     "name": "Kali blue",
     "hex": "#1C5F69"
@@ -6398,11 +6148,6 @@ const RAL_DESIGN_COLORS = [
     "code": "RAL 240 50 40",
     "name": "Tusche blue",
     "hex": "#0088B2"
-  },
-  {
-    "code": "RAL 240 60 05",
-    "name": "Carrier pigeon blue",
-    "hex": "#8F989E"
   },
   {
     "code": "RAL 240 60 10",
@@ -7200,11 +6945,6 @@ const RAL_DESIGN_COLORS = [
     "hex": "#3A4868"
   },
   {
-    "code": "RAL 280 30 05",
-    "name": "Smoking night blue",
-    "hex": "#55575D"
-  },
-  {
     "code": "RAL 280 30 10",
     "name": "Meteorite black blue",
     "hex": "#555965"
@@ -7998,11 +7738,6 @@ const RAL_DESIGN_COLORS = [
     "code": "RAL 310 50 25",
     "name": "Baroness mauve",
     "hex": "#8C789E"
-  },
-  {
-    "code": "RAL 310 50 30",
-    "name": "Bitter violet",
-    "hex": "#8E77A4"
   },
   {
     "code": "RAL 310 50 35",
@@ -8800,11 +8535,6 @@ const RAL_DESIGN_COLORS = [
     "hex": "#E8BCD4"
   },
   {
-    "code": "RAL 340 85 05",
-    "name": "Strawberry cream",
-    "hex": "#DCD1D7"
-  },
-  {
     "code": "RAL 340 85 10",
     "name": "Light flamingo pink",
     "hex": "#E6CFDB"
@@ -9026,7 +8756,7 @@ const RAL_DESIGN_COLORS = [
   },
   {
     "code": "RAL 350 70 20",
-    "name": "Lady?s cushions pink",
+    "name": "Lady's cushions pink",
     "hex": "#CC9EB3"
   },
   {
