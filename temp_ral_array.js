@@ -9054,4 +9054,4 @@
     "name": "Arrowhead white",
     "hex": "#F8E7EA"
   }
-];
+]
