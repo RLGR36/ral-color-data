@@ -1,0 +1,242 @@
+[
+  {
+    "code": "RAL 000 15 00",
+    "name": "Ink black",
+    "hex": "#434243"
+  },
+  {
+    "code": "RAL 000 20 00",
+    "name": "Slate black",
+    "hex": "#484848"
+  },
+  {
+    "code": "RAL 000 25 00",
+    "name": "Onyx black",
+    "hex": "#505051"
+  },
+  {
+    "code": "RAL 000 30 00",
+    "name": "Medium black",
+    "hex": "#585757"
+  },
+  {
+    "code": "RAL 000 35 00",
+    "name": "Briquette grey",
+    "hex": "#606060"
+  },
+  {
+    "code": "RAL 000 40 00",
+    "name": "Dark grey",
+    "hex": "#696969"
+  },
+  {
+    "code": "RAL 000 45 00",
+    "name": "Architecture grey",
+    "hex": "#757574"
+  },
+  {
+    "code": "RAL 000 50 00",
+    "name": "Steel grey",
+    "hex": "#7E7F7E"
+  },
+  {
+    "code": "RAL 000 55 00",
+    "name": "Medium grey",
+    "hex": "#898A8A"
+  },
+  {
+    "code": "RAL 000 60 00",
+    "name": "Ash grey",
+    "hex": "#959595"
+  },
+  {
+    "code": "RAL 000 65 00",
+    "name": "Mortar grey",
+    "hex": "#A3A3A3"
+  },
+  {
+    "code": "RAL 000 70 00",
+    "name": "Light grey",
+    "hex": "#AFAFAF"
+  },
+  {
+    "code": "RAL 000 75 00",
+    "name": "Marble grey",
+    "hex": "#BCBCBC"
+  },
+  {
+    "code": "RAL 000 80 00",
+    "name": "Foggy grey",
+    "hex": "#CBC9C9"
+  },
+  {
+    "code": "RAL 000 85 00",
+    "name": "Shadow white",
+    "hex": "#D8D7D6"
+  },
+  {
+    "code": "RAL 000 90 00",
+    "name": "Winter white",
+    "hex": "#E2E3E2"
+  },
+  {
+    "code": "RAL 010 20 10",
+    "name": "Wenge Black",
+    "hex": "#534547"
+  },
+  {
+    "code": "RAL 010 20 15",
+    "name": "Cherry black",
+    "hex": "#574246"
+  },
+  {
+    "code": "RAL 010 20 20",
+    "name": "Dark mahogany",
+    "hex": "#593F44"
+  },
+  {
+    "code": "RAL 010 20 25",
+    "name": "Rusty red",
+    "hex": "#5D3D44"
+  },
+  {
+    "code": "RAL 010 30 10",
+    "name": "Wood-black red",
+    "hex": "#665357"
+  },
+  {
+    "code": "RAL 010 30 15",
+    "name": "Night mauve",
+    "hex": "#694F55"
+  },
+  {
+    "code": "RAL 010 30 20",
+    "name": "Pinkish brown",
+    "hex": "#714D53"
+  },
+  {
+    "code": "RAL 010 30 25",
+    "name": "Chestnut red",
+    "hex": "#764C56"
+  },
+  {
+    "code": "RAL 010 30 30",
+    "name": "Leather red",
+    "hex": "#7D4753"
+  },
+  {
+    "code": "RAL 010 30 35",
+    "name": "Anthracite red",
+    "hex": "#7F4551"
+  },
+  {
+    "code": "RAL 010 30 40",
+    "name": "Brown magenta",
+    "hex": "#853F4F"
+  },
+  {
+    "code": "RAL 010 30 44",
+    "name": "Atlas red",
+    "hex": "#8A3D4F"
+  },
+  {
+    "code": "RAL 010 40 10",
+    "name": "Caput mortuum grey red",
+    "hex": "#796568"
+  },
+  {
+    "code": "RAL 010 40 15",
+    "name": "Rust brown",
+    "hex": "#7F6267"
+  },
+  {
+    "code": "RAL 010 40 20",
+    "name": "Sunset red",
+    "hex": "#875F66"
+  },
+  {
+    "code": "RAL 010 40 25",
+    "name": "Mineral red",
+    "hex": "#8E5C65"
+  },
+  {
+    "code": "RAL 010 40 30",
+    "name": "Dull magenta",
+    "hex": "#955964"
+  },
+  {
+    "code": "RAL 010 40 35",
+    "name": "Velvet red",
+    "hex": "#985462"
+  },
+  {
+    "code": "RAL 010 40 40",
+    "name": "Algae red",
+    "hex": "#9E5163"
+  },
+  {
+    "code": "RAL 010 40 45",
+    "name": "Raspberry ice red",
+    "hex": "#A64C62"
+  },
+  {
+    "code": "RAL 010 40 50",
+    "name": "Fuchsia red",
+    "hex": "#AB4961"
+  },
+  {
+    "code": "RAL 010 40 53",
+    "name": "Primal red",
+    "hex": "#AD435E"
+  },
+  {
+    "code": "RAL 010 50 10",
+    "name": "Old mahogany",
+    "hex": "#907A7E"
+  },
+  {
+    "code": "RAL 010 50 15",
+    "name": "Dull dusky pink",
+    "hex": "#97757B"
+  },
+  {
+    "code": "RAL 010 50 20",
+    "name": "Brickwork red",
+    "hex": "#9E737B"
+  },
+  {
+    "code": "RAL 010 50 25",
+    "name": "Matte carmine",
+    "hex": "#A6707B"
+  },
+  {
+    "code": "RAL 010 50 30",
+    "name": "Marble red",
+    "hex": "#AF6C79"
+  },
+  {
+    "code": "RAL 010 50 35",
+    "name": "Geranium red",
+    "hex": "#B36777"
+  },
+  {
+    "code": "RAL 010 50 40",
+    "name": "Slate pink",
+    "hex": "#B86477"
+  },
+  {
+    "code": "RAL 010 50 45",
+    "name": "Tulip red",
+    "hex": "#BD5E74"
+  },
+  {
+    "code": "RAL 010 50 50",
+    "name": "Vibrant red",
+    "hex": "#C55B76"
+  },
+  {
+    "code": "RAL 010 60 10",
+    "name": "Lilac grey",
+    "hex": "#A99094"
+  }
+]
